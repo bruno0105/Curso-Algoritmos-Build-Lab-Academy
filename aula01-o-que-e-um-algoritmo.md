@@ -3,7 +3,7 @@
 > 🔗 [Assistir no YouTube](https://www.youtube.com/watch?v=M5ka2z5molg&list=PLWA6aa2tQjEFdsgi34pUC1e2IyzwXLhwr&index=2)
 > 📅 Data: 2026-05-07 · ✅ Concluída
 
-Primeira aula técnica do curso. O instrutor Ellon introduziu o conceito de
+Primeira aula técnica do curso. O instrutor introduziu o conceito de
 algoritmo, as formas de representá-lo, o paradigma adotado no curso e o
 funcionamento interno de um sistema computacional.
 

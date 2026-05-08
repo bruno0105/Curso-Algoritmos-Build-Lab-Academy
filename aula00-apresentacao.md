@@ -3,7 +3,7 @@
 > 🔗 [Assistir no YouTube](https://www.youtube.com/watch?v=M5ka2z5molg&list=PLWA6aa2tQjEFdsgi34pUC1e2IyzwXLhwr&index=1)
 > 📅 Data: 2026-05-07 · ✅ Concluída
 
-Aula inaugural sem conteúdo técnico prático. O instrutor Heron Camargo apresentou
+Aula inaugural sem conteúdo técnico prático. O instrutor apresentou
 a estrutura do curso, voltado para iniciantes ou desenvolvedores que desejam
 reforçar a base de raciocínio lógico antes de aprofundar em qualquer linguagem.
 

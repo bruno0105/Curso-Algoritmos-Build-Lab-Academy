@@ -4,7 +4,7 @@
 > 📅 Data: 2026-05-07 · ✅ Concluída
 
 Aula focada no conceito de variáveis — um dos pilares fundamentais de qualquer
-algoritmo. O instrutor Heron Camargo apresentou o que são variáveis, quais os
+algoritmo. O instrutor apresentou o que são variáveis, quais os
 tipos básicos existentes em fluxogramas e as regras que devem ser seguidas para
 nomeá-las corretamente.
 
