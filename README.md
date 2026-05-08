@@ -2,7 +2,7 @@
 ### A Arte do Código
 
 > Repositório de estudos documentando aula por aula o curso de Lógica de
-> Programação da Build Lab Academy, cursado em paralelo ao 1º semestre de
+> Programação da escola de programação "A Arte do Código", cursado em paralelo ao 1º semestre de
 > TADS no IFPR Campus Colombo.
 
 ---
