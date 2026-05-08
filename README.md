@@ -1,5 +1,5 @@
-# 🧠 Lógica de Programação
-### Build Lab Academy · Heron Camargo & Ellon
+# 🧠 Lógica de Programação e Algoritmos com Flowgorithm
+### A Arte do Código
 
 > Repositório de estudos documentando aula por aula o curso de Lógica de
 > Programação da Build Lab Academy, cursado em paralelo ao 1º semestre de
