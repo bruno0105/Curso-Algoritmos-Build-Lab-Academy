@@ -26,5 +26,3 @@
 | 01 | [O que é um Algoritmo](./aula01-o-que-e-um-algoritmo.md) | ✅ Concluída |
 
 ---
-
-*Documentado com apoio do Claude · Anthropic*

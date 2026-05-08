@@ -57,5 +57,3 @@ estruturas de dados. Estudar os dois em paralelo reforça a fixação do conteú
 - [ ] Organizar ambiente de estudo com duas telas ou dispositivos
 
 ---
-
-*Documentado com apoio do Claude · Anthropic*

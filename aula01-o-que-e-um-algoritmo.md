@@ -106,5 +106,3 @@ printf("%d", resultado);   // SAÍDA
 - [ ] O modelo Entrada → Processamento → Saída aparece em toda aula daqui para frente
 
 ---
-
-*Documentado com apoio do Claude · Anthropic*
