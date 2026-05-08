@@ -220,5 +220,3 @@ Cada tipo declarado reserva uma quantidade específica de memória:
 - [ ] Em C, o tipo é obrigatório na declaração
 
 ---
-
-*Documentado com apoio do Claude · Anthropic*
